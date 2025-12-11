@@ -4,7 +4,7 @@ export default async function postDetailsPage(props) {
   const { postId } = await props.params;
   const loadingJsx = (
     <div>
-      <h1>Loading...</h1>
+      <h1>wait...</h1>
     </div>
   );
   return (
