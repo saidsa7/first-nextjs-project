@@ -40,3 +40,8 @@ a {
     color-scheme: dark;
   }
 }
+
+.my {
+  background-color: yellow;
+  color: rgb(138, 76, 76);
+}
